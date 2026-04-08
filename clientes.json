@@ -1,7 +1,7 @@
 {
   "clientes": {
-    "homologacao": "https://idiario.homologacao.simplestek.com.br/",
-    "Prefeitura XPTO": "https://idiario.homologacao.simplestek.com.br/1",
-    "Prefeitura XYZ": "https://idiario.homologacao.simplestek.com.br/2"
+    "homologacao": "idiario.homologacao",
+    "Prefeitura XPTO": "idiario.xpto",
+    "Prefeitura XYZ": "idiario.xyz"
   }
 }
